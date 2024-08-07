@@ -2,6 +2,9 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+traPuzzle(仮) のパズル投稿サイト(製作途中)です。
+気楽に issue, PR などを立ててくださると:grin:
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
